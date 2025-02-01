@@ -10,4 +10,5 @@
 ### Instructions to run the code:
 1. Fork the repo.
 2. Open intellij and run main.java 
-3. For test files click on DogTest.java and PersonTest.java Separately and click on run and it should pass all the test. 
+3. For test files click on DogTest.java and PersonTest.java Separately and click on run and it should pass all the test.
+4. Make sure to have Junit and Maven.
